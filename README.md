@@ -22,6 +22,18 @@ Many career changers – especially women and people from non-technical backgrou
 
 > **💡 Pro Tip for Your CV & Interviews:** Never hide your non-tech hobbies or previous career. Mentioning that you set up a **Raspberry Pi ad-blocker (Pi-hole)** at home or automated spreadsheets in your old job proves genuine curiosity and practical problem-solving – hiring managers love this!
 
+## 👩‍💻 Myth vs. Reality: "Do Women Have a Disadvantage in IT?"
+
+In my orientation courses, one of the most common fears I hear from women who have never worked in tech is: *"IT is a male-dominated field – won't I be at a disadvantage?"*
+
+**Based on 30 years in the industry, my honest answer is: No – often quite the opposite.**
+
+* **Teams Need Diverse Perspectives:** Software and IT systems are built for everyone. Companies know that homogeneous teams miss obvious user problems.
+* **Communication & Structure Win:** Modern IT is a team sport. Skills like clear documentation, empathy for users, and structured analysis (areas where many female career changers excel) are in high demand.
+* **Active Demand:** Many tech departments actively want to balance their teams and welcome qualified female career changers with open arms.
+
+> **The biggest barrier is rarely the industry itself – it is hesitation and self-doubt before taking the first step.**
+
 
 ---
 
