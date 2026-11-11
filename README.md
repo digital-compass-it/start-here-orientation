@@ -55,11 +55,12 @@ In my 30 years in the industry and from teaching countless courses, I have obser
 | :--- | :--- | :--- | :--- | :--- |
 | **1** | **IT Support & Helpdesk** | 🟢 **Very Low** | None (Basic scripting later) | Communication skills, patience, and problem-solving matter more than a CS degree. |
 | **2** | **QA & Software Testing** | 🟢 **Low** | Low (Manual first, automation later) | Requires structured thinking, attention to detail, and a user perspective. |
-| **3** | **Junior SysAdmin / IT Operations** | 🟡 **Low to Medium** | Low (Bash / PowerShell) | High demand for reliable people who keep systems, networks, and users running. |
-| **4** | **Business / Data Analyst** | 🟡 **Medium** | Low to Medium (SQL, Excel, BI tools) | Your previous industry knowledge (finance, healthcare, retail, etc.) is a superpower. |
-| **5** | **Application / ERP / CRM Admin** | 🟡 **Medium** | Very Low (Configuration over code) | Companies desperately need admins for Salesforce, SAP, Microsoft 365, or Jira. |
-| **6** | **Cloud & DevOps Junior** | 🟠 **Medium to High** | Medium (Infrastructure as Code) | Best entered as a second step after learning basic Linux, networking, and support. |
-| **7** | **Software Developer (Frontend/Backend)** | 🔴 **High** | Very High | **⚠️ Caution:** Heavily marketed by bootcamps, but hardest entry point without a strong portfolio. |
+| **3** | **Applied AI & Workflow Builder** | 🟢 **Low** | Low (Manual first, automation later) | If you have strong domain experience from another industry  |
+| **4** | **Junior SysAdmin / IT Operations** | 🟡 **Low to Medium** | Low (Bash / PowerShell) | High demand for reliable people who keep systems, networks, and users running. |
+| **5** | **Business / Data Analyst** | 🟡 **Medium** | Low to Medium (SQL, Excel, BI tools) | Your previous industry knowledge (finance, healthcare, retail, etc.) is a superpower. |
+| **6** | **Application / ERP / CRM Admin** | 🟡 **Medium** | Very Low (Configuration over code) | Companies desperately need admins for Salesforce, SAP, Microsoft 365, or Jira. |
+| **7** | **Cloud & DevOps Junior** | 🟠 **Medium to High** | Medium (Infrastructure as Code) | Best entered as a second step after learning basic Linux, networking, and support. |
+| **8** | **Software Developer (Frontend/Backend)** | 🔴 **High** | Very High | **⚠️ Caution:** Heavily marketed by bootcamps, but hardest entry point without a strong portfolio. |
 
 ---
 
