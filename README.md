@@ -110,7 +110,3 @@ You will see thousands of ads promising: *"Become a Junior Software Developer in
 - [ ] **Step 3:** Open the roadmap repository for your chosen role and start your first **free** industry course this week.
 
 ---
-
-### 🎓 Need Personal Guidance?
-Still unsure which path fits your background? Join one of my **Live IT Career Orientation Workshops** (designed specifically for career changers and women entering tech) where we analyze your strengths and build your personal entry roadmap together.  
-*(Add your contact / workshop link here)*
